@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arefjozi, a Civil Engineer
-- 👀 I’m interested in AI and ANN
+- 👀 I’m interested in utilization of AI and ANN in civil engineering
 - 🌱 I’m currently learning PYTHON, Machine Learning, AI, ANN in civil engineering
 - 💞️ I’m looking to collaborate on novel methods to solve structural problems
 - 📫 How to reach me: arefjozi@gmail.com
